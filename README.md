@@ -1,7 +1,7 @@
 ### UVNC-RAT
 
 ## prepration
-- Install NSIS
+- Install NSIS https://nsis.sourceforge.io/Download
 - edit the IP 0.0.0.0 in the start.bat file to your IP
 - maybe change the port in the start.bat file and the listen .bat file
 - compile the .nsis file 
